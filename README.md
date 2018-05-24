@@ -1,5 +1,5 @@
 
-Python package to read and write csv files.
+IOCSV is a python package to read and write csv files.
 
 ## Installation
 
