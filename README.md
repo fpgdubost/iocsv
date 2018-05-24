@@ -12,10 +12,11 @@ pip install iocsv
 
 See examples in /iocsv/example/example.py
 
-## Author
+### Author
 
 * **Florian Dubost** - [fpgdubost](https://github.com/fpgdubost)
 
-## License
+### License
 
 GNU General Public License
+https://www.gnu.org/licenses/gpl-3.0.en.html
