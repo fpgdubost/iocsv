@@ -8,7 +8,7 @@ The python package can be installed with pip:
 ```
 pip install iocsv
 ```
-# Examples
+## Examples
 
 See examples in /iocsv/example/example.py
 
