@@ -1,22 +1,22 @@
 
 Python package to read and write csv files.
 
-### Installing
+## Installation
 
 The python package can be installed with pip:
 
 ```
 pip install iocsv
 ```
-## Examples
+# Examples
 
 See examples in /iocsv/example/example.py
 
-### Author
+## Author
 
 * **Florian Dubost** - [fpgdubost](https://github.com/fpgdubost)
 
-### License
+## License
 
 GNU General Public License
 https://www.gnu.org/licenses/gpl-3.0.en.html
